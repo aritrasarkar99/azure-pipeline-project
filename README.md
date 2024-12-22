@@ -28,8 +28,10 @@ A Databricks Notebook is created to transform the source data. The source data c
 - After file is copied to the processed_data folder, the Delete activity deletes the file from to_process folder.
 
 
+![Azure Pipeline Architecture](https://github.com/aritrasarkar99/azure-pipeline-project/blob/main/images/azure-pipeline-project.jpg)
 
-![Realtime Snowflake Project Architecture](https://github.com/aritrasarkar99/azure-pipeline-project/blob/main/images/pipeline.jpg)
+
+![Azure pipeline screenshot](https://github.com/aritrasarkar99/azure-pipeline-project/blob/main/images/pipeline.jpg)
 
 
 
