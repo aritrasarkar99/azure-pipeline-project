@@ -29,7 +29,7 @@ A Databricks Notebook is created to transform the source data. The source data c
 
 
 
-![Realtime Snowflake Project Architecture](https://github.com/aritrasarkar99/realtime-snowflake-project/blob/main/SnowflakeProject.jpg)
+![Realtime Snowflake Project Architecture](https://github.com/aritrasarkar99/realtime-snowflake-project/blob/main/images/pipeline.jpg)
 
 
 
